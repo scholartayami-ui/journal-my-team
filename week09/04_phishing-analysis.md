@@ -31,14 +31,18 @@ If you believe this is a mistake, reply with your full name, date of birth, and 
 ### Questions
 
 1.  Who appears to be the sender?
-2.  Does the email create urgency or pressure?
-3.  Are there spelling or grammar mistakes?
-4.  Does the link match the organisation domain?
+an unknown individual
+3.  Does the email create urgency or pressure?
+pressure
+5.  Are there spelling or grammar mistakes?
+  yes
+7.  Does the link match the organisation domain?
+   no
 
 ### Reflection
 
 Explain why attackers use phishing emails.
-
+this is because they are one of the most effective and low-cost methods to exploit human psychology, bypass technical security.
 ------------------------------------------------------------------------
 
 ## Task 2 --- Link Inspection
