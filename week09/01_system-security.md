@@ -8,7 +8,8 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="5712" height="4284" alt="image" src="https://github.com/user-attachments/assets/c3ae9392-bc0e-43a7-ac97-fae88afbd496" />
+
 
 ### Questions
 
@@ -30,7 +31,12 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="5712" height="4284" alt="image" src="https://github.com/user-attachments/assets/8f11db49-82bc-4389-b05c-6e04ac215597" />
+<img width="5712" height="4284" alt="image" src="https://github.com/user-attachments/assets/479a33fb-208d-4a4e-a04b-96fa509cceda" />
+<img width="5712" height="4284" alt="image" src="https://github.com/user-attachments/assets/dff358a9-927f-4df4-bd0d-71fb495b615d" />
+<img width="5712" height="4284" alt="image" src="https://github.com/user-attachments/assets/875b6e65-f840-42fc-954c-06ffd78453dc" />
+
+
 
 ### Questions
 
@@ -52,13 +58,16 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+(<img width="5712" height="4284" alt="image" src="https://github.com/user-attachments/assets/727b7457-c1b5-4099-bd68-9c78d547a295" />
+)
 
 ### Questions
 
 1.  Which ports are open?
-2.  Which services appear to be listening?
-3.  Why might open ports represent a security risk?
+
+3.  Which services appear to be listening?
+   tcp, 
+4.  Why might open ports represent a security risk?
 
 ### Reflection
 
